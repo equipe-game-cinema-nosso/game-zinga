@@ -1,0 +1,25 @@
+# Ignorar pastas temporárias do Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+Obj/
+MemoryCaptures/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup
+*.bak
+*.tmp
+
+# Ignorar arquivos de cache do Unity
+*.csproj
+*.unityproj
+*.sln
+*.user
