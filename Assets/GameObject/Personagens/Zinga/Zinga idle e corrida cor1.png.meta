@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: c41c2f885d9a05d4f97e5f55c26f54fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5153180876065800524
+    second: Zinga idle e corrida cor1_0
+  - first:
+      213: -5027077891167003532
+    second: Zinga idle e corrida cor1_1
+  - first:
+      213: 8326135518935448776
+    second: Zinga idle e corrida cor1_2
+  - first:
+      213: -9027055770455892076
+    second: Zinga idle e corrida cor1_3
+  - first:
+      213: 6310928145254129176
+    second: Zinga idle e corrida cor1_4
+  - first:
+      213: -2294827284288941427
+    second: Zinga idle e corrida cor1_5
+  - first:
+      213: 7238389824000531147
+    second: Zinga idle e corrida cor1_6
+  - first:
+      213: 4621651531519622272
+    second: Zinga idle e corrida cor1_7
+  - first:
+      213: -6248428682833580573
+    second: Zinga idle e corrida cor1_8
+  - first:
+      213: 4713596003914666738
+    second: Zinga idle e corrida cor1_9
+  - first:
+      213: -2184635750454930311
+    second: Zinga idle e corrida cor1_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 239
+        width: 44
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c410d3d34b6c38740800000000000000
+      internalID: 5153180876065800524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 239
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c55c6ea4b3c3ab0800000000000000
+      internalID: -5027077891167003532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 119
+        width: 44
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccf8e504206c8370800000000000000
+      internalID: 8326135518935448776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 239
+        width: 44
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f165aaa9479b280800000000000000
+      internalID: -9027055770455892076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 52
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e13ec16bbe49750800000000000000
+      internalID: 6310928145254129176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 119
+        width: 47
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8255135eb22720e0800000000000000
+      internalID: -2294827284288941427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_6
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 0
+        width: 44
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca9a5db13de37460800000000000000
+      internalID: 7238389824000531147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 119
+        width: 29
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cfdd3d497632040800000000000000
+      internalID: 4621651531519622272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 52
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eda753f73f1949a0800000000000000
+      internalID: -6248428682833580573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 47
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2d804879e0a6140800000000000000
+      internalID: 4713596003914666738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 0
+        width: 29
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974d3821c5d9ea1e0800000000000000
+      internalID: -2184635750454930311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Zinga idle e corrida cor1_0: 5153180876065800524
+      Zinga idle e corrida cor1_1: -5027077891167003532
+      Zinga idle e corrida cor1_10: -2184635750454930311
+      Zinga idle e corrida cor1_2: 8326135518935448776
+      Zinga idle e corrida cor1_3: -9027055770455892076
+      Zinga idle e corrida cor1_4: 6310928145254129176
+      Zinga idle e corrida cor1_5: -2294827284288941427
+      Zinga idle e corrida cor1_6: 7238389824000531147
+      Zinga idle e corrida cor1_7: 4621651531519622272
+      Zinga idle e corrida cor1_8: -6248428682833580573
+      Zinga idle e corrida cor1_9: 4713596003914666738
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
