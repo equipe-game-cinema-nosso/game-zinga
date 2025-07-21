@@ -1,10 +1,7 @@
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class ZingaController : MonoBehaviour
 {
-    private Rigidbody2D rb;
-
-    private float speed;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -18,8 +15,7 @@ public class Player : MonoBehaviour
     }
     void Move()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        transform.position += new Vector3(moveHorizontal * speed * Time.deltaTime, 0, 0);
-      
+        float horizontal = Input.GetAxis("Horizontal");
+        transform.position = new Vector3(horizontal, 0, 0);
     }
 }
