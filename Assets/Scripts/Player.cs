@@ -2,13 +2,19 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-    private Rigidbody2D rb;
+    [SerializeField] private Rigidbody2D rb;
 
-    [SerializeField] private float speed = 6f;
+    [SerializeField] private float speed;
+
+    [SerializeField] private Vector2 pulo;
+
+
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -18,8 +24,21 @@ public class Player : MonoBehaviour
     }
     void Move()
     {
-        float moveHorizontal = Input.GetAxis("Horizontal");
-        this.gameObject.transform.position += new Vector3(moveHorizontal * speed * Time.deltaTime, 0, 0);
-      
+        if (Input.GetKey(KeyCode.D))
+        {
+            this.gameObject.transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
+
+        }
+        if (Input.GetKey(KeyCode.A))
+        {
+            this.gameObject.transform.position -= new Vector3(speed * Time.deltaTime, 0, 0);
+
+        }
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            //Debug.Log("Tecla espaço");
+            rb.AddForce(pulo, ForceMode2D.Impulse);
+        }
+
     }
 }

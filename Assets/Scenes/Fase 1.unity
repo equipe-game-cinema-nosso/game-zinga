@@ -285,6 +285,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 00f5234e123e3a84baa0f393b614f02d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  rb: {fileID: 86185495}
+  speed: 6
+  pulo: {x: 0, y: 10}
 --- !u!1 &495920944
 GameObject:
   m_ObjectHideFlags: 0
