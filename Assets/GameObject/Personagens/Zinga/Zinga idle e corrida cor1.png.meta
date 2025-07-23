@@ -159,10 +159,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 239
-        width: 44
-        height: 116
+        x: 0
+        y: 240
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,10 +181,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_1
       rect:
         serializedVersion: 2
-        x: 56
-        y: 239
-        width: 44
-        height: 119
+        x: 51
+        y: 240
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,10 +203,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_2
       rect:
         serializedVersion: 2
-        x: 107
-        y: 119
-        width: 44
-        height: 236
+        x: 102
+        y: 240
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,10 +225,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_3
       rect:
         serializedVersion: 2
-        x: 158
-        y: 239
-        width: 44
-        height: 119
+        x: 153
+        y: 240
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,9 +248,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 119
-        width: 52
-        height: 119
+        y: 120
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,10 +269,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_5
       rect:
         serializedVersion: 2
-        x: 53
-        y: 119
-        width: 47
-        height: 116
+        x: 51
+        y: 120
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,10 +291,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_6
       rect:
         serializedVersion: 2
-        x: 107
-        y: 0
-        width: 44
-        height: 121
+        x: 102
+        y: 120
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,10 +313,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_7
       rect:
         serializedVersion: 2
-        x: 167
-        y: 119
-        width: 29
-        height: 116
+        x: 153
+        y: 120
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -337,8 +337,8 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 52
-        height: 118
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -357,10 +357,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_9
       rect:
         serializedVersion: 2
-        x: 53
+        x: 51
         y: 0
-        width: 47
-        height: 115
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -379,10 +379,10 @@ TextureImporter:
       name: Zinga idle e corrida cor1_10
       rect:
         serializedVersion: 2
-        x: 167
+        x: 102
         y: 0
-        width: 29
-        height: 115
+        width: 51
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -397,11 +397,33 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Zinga idle e corrida cor1_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 0
+        width: 51
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dac77d3a99694b4ebd93aa5c46405c9
+      internalID: 1526136429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 74da929946f249e4399241c13eccfbb4
     internalID: 0
     vertices: []
     indices: 
@@ -414,6 +436,7 @@ TextureImporter:
       Zinga idle e corrida cor1_0: 5153180876065800524
       Zinga idle e corrida cor1_1: -5027077891167003532
       Zinga idle e corrida cor1_10: -2184635750454930311
+      Zinga idle e corrida cor1_11: 1526136429
       Zinga idle e corrida cor1_2: 8326135518935448776
       Zinga idle e corrida cor1_3: -9027055770455892076
       Zinga idle e corrida cor1_4: 6310928145254129176
