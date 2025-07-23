@@ -291,6 +291,7 @@ MonoBehaviour:
   pulo: {x: 0, y: 7}
   isChao: 0
   sprite: {fileID: 86185496}
+  animator: {fileID: 86185500}
 --- !u!95 &86185500
 Animator:
   serializedVersion: 7
