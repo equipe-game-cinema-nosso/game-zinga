@@ -132,6 +132,7 @@ GameObject:
   - component: {fileID: 86185495}
   - component: {fileID: 86185497}
   - component: {fileID: 86185499}
+  - component: {fileID: 86185500}
   m_Layer: 0
   m_Name: Zinga
   m_TagString: Untagged
@@ -225,7 +226,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5153180876065800524, guid: c41c2f885d9a05d4f97e5f55c26f54fe, type: 3}
+  m_Sprite: {fileID: 5899514594333497787, guid: 7f1000fe3f816324da49351a14c9167a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -270,8 +271,8 @@ CapsuleCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: -0.03409829}
-  m_Size: {x: 0.44, y: 0.9554114}
+  m_Offset: {x: 0.018060103, y: -0.01968895}
+  m_Size: {x: 0.4761202, y: 1.2094971}
   m_Direction: 0
 --- !u!114 &86185499
 MonoBehaviour:
@@ -287,7 +288,31 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rb: {fileID: 86185495}
   speed: 6
-  pulo: {x: 0, y: 10}
+  pulo: {x: 0, y: 7}
+  isChao: 0
+  sprite: {fileID: 86185496}
+--- !u!95 &86185500
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 86185493}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 439ee7d739a93a94cb6e482c62de7ece, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &495920944
 GameObject:
   m_ObjectHideFlags: 0
@@ -301,7 +326,7 @@ GameObject:
   - component: {fileID: 495920945}
   m_Layer: 0
   m_Name: Square
-  m_TagString: Untagged
+  m_TagString: Plataforma
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
