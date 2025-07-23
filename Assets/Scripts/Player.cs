@@ -12,6 +12,7 @@ public class Player : MonoBehaviour
 
     [SerializeField] private SpriteRenderer sprite;
 
+    [SerializeField] private Animator animator;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -30,16 +31,23 @@ public class Player : MonoBehaviour
         {
             this.gameObject.transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
             sprite.flipX = false;
+            animator.SetBool("Correndo", true);
         }
         if (Input.GetKey(KeyCode.A))
         {
             this.gameObject.transform.position -= new Vector3(speed * Time.deltaTime, 0, 0);
             sprite.flipX = true;
-         }
+            animator.SetBool("Correndo", true);
+        }
+        if (Input.GetKeyUp(KeyCode.A) || Input.GetKeyUp(KeyCode.D))
+        {
+            animator.SetBool("Correndo", false);
+        }
         if (Input.GetKeyDown(KeyCode.Space) && isChao)
         {
             rb.AddForce(pulo, ForceMode2D.Impulse);
             isChao = false;
+            animator.SetBool("NoChao", false);
         }
 
     }
@@ -47,8 +55,8 @@ public class Player : MonoBehaviour
     {
         if(collision.gameObject.tag == "Plataforma")
         {
-            Debug.Log("Colidi a plataforma");
             isChao = true;
+            animator.SetBool("NoChao", true);
         }
     }
 }
