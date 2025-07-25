@@ -129,9 +129,9 @@ TextureImporter:
       name: Tombado01 (1)_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 3
         y: 0
-        width: 226
+        width: 225
         height: 432
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -151,9 +151,9 @@ TextureImporter:
       name: Tombado01 (1)_1
       rect:
         serializedVersion: 2
-        x: 226
+        x: 228
         y: 0
-        width: 226
+        width: 225
         height: 432
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf4285c35b90ff84790f4f247baabc01
-      internalID: 372985149
+      spriteID: 1383899ee623559438922044eb01e57b
+      internalID: 1817745498
       vertices: []
       indices: 
       edges: []
@@ -173,9 +173,9 @@ TextureImporter:
       name: Tombado01 (1)_2
       rect:
         serializedVersion: 2
-        x: 452
+        x: 453
         y: 0
-        width: 226
+        width: 225
         height: 432
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -185,8 +185,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6494d4a90642e94b90f11868716a6fd
-      internalID: -112050019
+      spriteID: 4abe2cc021a0f1046a9dc7d7efcdcc7f
+      internalID: -313329418
       vertices: []
       indices: 
       edges: []
@@ -206,8 +206,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Tombado01 (1)_0: -7321985861708112312
-      Tombado01 (1)_1: 372985149
-      Tombado01 (1)_2: -112050019
+      Tombado01 (1)_1: 1817745498
+      Tombado01 (1)_2: -313329418
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
