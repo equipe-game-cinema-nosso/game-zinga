@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: b78b358ae2837bd4885123923a170956
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6605382091441567975
+    second: robopolicia_0
+  - first:
+      213: -8122601225590139594
+    second: robopolicia_1
+  - first:
+      213: -5709749866873957565
+    second: robopolicia_2
+  - first:
+      213: 2040446650899991946
+    second: robopolicia_3
+  - first:
+      213: -3709995346943948608
+    second: robopolicia_4
+  - first:
+      213: -2791255850074424165
+    second: robopolicia_5
+  - first:
+      213: -2306407486804938859
+    second: robopolicia_6
+  - first:
+      213: -8792122695529539720
+    second: robopolicia_7
+  - first:
+      213: 5182881545542644758
+    second: robopolicia_8
+  - first:
+      213: 4389930846278870722
+    second: robopolicia_9
+  - first:
+      213: 6254268185436936949
+    second: robopolicia_10
+  - first:
+      213: -3540417680764943125
+    second: robopolicia_11
+  - first:
+      213: -2533290627204768124
+    second: robopolicia_12
+  - first:
+      213: 1181133415517671279
+    second: robopolicia_13
+  - first:
+      213: 4350944094904976828
+    second: robopolicia_14
+  - first:
+      213: -682100721395590117
+    second: robopolicia_15
+  - first:
+      213: -79366132507453259
+    second: robopolicia_16
+  - first:
+      213: -8003104253737410357
+    second: robopolicia_17
+  - first:
+      213: -9023995403843768631
+    second: robopolicia_18
+  - first:
+      213: -3443532915612965962
+    second: robopolicia_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robopolicia_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 221
+        width: 47
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91706e11cf7f454a0800000000000000
+      internalID: -6605382091441567975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 221
+        width: 47
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6351c808839b64f80800000000000000
+      internalID: -8122601225590139594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 311
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d4a46fb4e2c0b0800000000000000
+      internalID: -5709749866873957565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_3
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 311
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d87021b6f115c10800000000000000
+      internalID: 2040446650899991946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_4
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 308
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8cd0b63e2738cc0800000000000000
+      internalID: -3709995346943948608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_5
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 308
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c3513d7977349d0800000000000000
+      internalID: -2791255850074424165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_6
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 242
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa0b15c9efdffd0800000000000000
+      internalID: -2306407486804938859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 242
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877df47bdfa1cf580800000000000000
+      internalID: -8792122695529539720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_8
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 239
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6143ffa3e4b4de740800000000000000
+      internalID: 5182881545542644758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_9
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 239
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66bf888da2cec30800000000000000
+      internalID: 4389930846278870722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 47
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fadef237cf9bc650800000000000000
+      internalID: 6254268185436936949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_11
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 38
+        width: 47
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be44e7590e8eddec0800000000000000
+      internalID: -3540417680764943125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_12
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e12a4b891f7dcd0800000000000000
+      internalID: -2533290627204768124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 128
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f4640659a346010800000000000000
+      internalID: 1181133415517671279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_14
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5056e1a98a16c30800000000000000
+      internalID: 4350944094904976828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_15
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 125
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c9d200201b886f0800000000000000
+      internalID: -682100721395590117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 59
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b852b84ce806eef0800000000000000
+      internalID: -79366132507453259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 59
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0609f55134fe090800000000000000
+      internalID: -8003104253737410357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 56
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce622bcdf354c280800000000000000
+      internalID: -9023995403843768631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robopolicia_19
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 56
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b32680de0d1630d0800000000000000
+      internalID: -3443532915612965962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      robopolicia_0: -6605382091441567975
+      robopolicia_1: -8122601225590139594
+      robopolicia_10: 6254268185436936949
+      robopolicia_11: -3540417680764943125
+      robopolicia_12: -2533290627204768124
+      robopolicia_13: 1181133415517671279
+      robopolicia_14: 4350944094904976828
+      robopolicia_15: -682100721395590117
+      robopolicia_16: -79366132507453259
+      robopolicia_17: -8003104253737410357
+      robopolicia_18: -9023995403843768631
+      robopolicia_19: -3443532915612965962
+      robopolicia_2: -5709749866873957565
+      robopolicia_3: 2040446650899991946
+      robopolicia_4: -3709995346943948608
+      robopolicia_5: -2791255850074424165
+      robopolicia_6: -2306407486804938859
+      robopolicia_7: -8792122695529539720
+      robopolicia_8: 5182881545542644758
+      robopolicia_9: 4389930846278870722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
