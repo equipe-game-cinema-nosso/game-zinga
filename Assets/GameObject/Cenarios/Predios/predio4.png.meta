@@ -135,10 +135,10 @@ TextureImporter:
       name: predio4_0
       rect:
         serializedVersion: 2
-        x: 143
-        y: 395
-        width: 65
-        height: 53
+        x: 206
+        y: 0
+        width: 209
+        height: 582
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -157,9 +157,9 @@ TextureImporter:
       name: predio4_1
       rect:
         serializedVersion: 2
-        x: 209
+        x: 415
         y: 0
-        width: 415
+        width: 209
         height: 582
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -175,33 +175,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: predio4_2
-      rect:
-        serializedVersion: 2
-        x: 5
-        y: 242
-        width: 203
-        height: 53
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 245ab134a4c8d7050800000000000000
-      internalID: 5799946145704420674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 7b5109d231deddf4fa09b06fcc0832fe
     internalID: 0
     vertices: []
     indices: 
@@ -213,7 +191,6 @@ TextureImporter:
     nameFileIdTable:
       predio4_0: -9037793171846579075
       predio4_1: 8386329764992602263
-      predio4_2: 5799946145704420674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
