@@ -38,9 +38,10 @@ public class EnemySetup : MonoBehaviour
     {
         Gizmos.color = Color.green;
         Gizmos.DrawWireCube(new Vector3(transform.position.x + positionArea.x, transform.position.y + positionArea.y, transform.position.z + positionArea.z),
-                                        new Vector3(areaSize, transform.position.y + detectionArea.y, detectionArea.z));
+                                        new Vector3(areaSize, detectionArea.y, transform.position.z + detectionArea.z));
+
         Gizmos.color = new Color (0.5f, 0.5f, 0.5f, 0.2f);
         Gizmos.DrawCube(new Vector3(transform.position.x + positionArea.x, transform.position.y + positionArea.y, transform.position.z + positionArea.z),
-                                    new Vector3(areaSize, transform.position.y + detectionArea.y, detectionArea.z));
+                                    new Vector3(areaSize, detectionArea.y, transform.position.z + detectionArea.z));
     }
 }
