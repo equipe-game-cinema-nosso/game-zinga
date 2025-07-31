@@ -1,38 +1,34 @@
 using UnityEngine;
-using UnityEngine.UIElements;
+
 
 public class Parallax : MonoBehaviour
 {
-    private float tamanho;
-    private float PosInicial;
+    [Range(0f, 1.5f)] public float parallaxX;
+    [Range(0f, 1.5f)] public float parallaxY;
     private Transform cam;
 
-    [SerializeField] private float ParallaxEfeito;
+    Vector3 camPos; 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        PosInicial = transform.position.x;
-        tamanho = GetComponent<SpriteRenderer>().bounds.size.x;
-        cam = Camera.main.transform;
-            
+        if (cam == null)
+           cam = Camera.main.transform;
+       
+        if (cam != null) 
+            camPos = cam.position;
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        float RePos = cam.transform.position.x * (1 - ParallaxEfeito);
-        float Distancia = cam.transform.position.x * ParallaxEfeito;
+        if (cam == null) return;
 
-        transform.position = new Vector3(PosInicial + Distancia, transform.position.y, transform.position.z);
+        Vector3 delta = cam.position - camPos;
 
-        if (RePos > PosInicial + tamanho)
-        {
-            PosInicial += tamanho;
-        }
-        else if (RePos < PosInicial - tamanho)
-        {
-            PosInicial -= tamanho;
-        }
+        transform.position += new Vector3(delta.x * parallaxX, delta.y * parallaxY, 0f);
+
+        camPos = cam.position;
     }
 }

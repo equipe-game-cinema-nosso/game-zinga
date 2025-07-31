@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Iaga\\projetos unity\\game-zinga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|d:\\iaga\\projetos unity\\game-zinga\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|d:\\iaga\\projetos unity\\game-zinga\\assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\parallax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MoveCamera.cs",
               "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\MoveCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\MoveCamera.cs",
@@ -34,8 +34,7 @@
               "RelativeToolTip": "Assets\\Scripts\\MoveCamera.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T09:27:42.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-31T09:27:42.441Z"
             },
             {
               "$type": "Document",
@@ -47,20 +46,20 @@
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T23:31:54.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T23:31:54.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Parallax.cs",
               "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\Parallax.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Parallax.cs",
               "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\Parallax.cs",
               "RelativeToolTip": "Assets\\Scripts\\Parallax.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T23:23:23.579Z"
+              "WhenOpened": "2025-07-30T23:23:23.579Z",
+              "EditorCaption": ""
             }
           ]
         }

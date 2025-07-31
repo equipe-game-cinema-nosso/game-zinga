@@ -485,7 +485,7 @@ Transform:
   m_GameObject: {fileID: 341544259}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 34.4178, y: 12.13, z: 8.31}
+  m_LocalPosition: {x: 34.4178, y: 12.130001, z: 8.31}
   m_LocalScale: {x: 1, y: 0.9318391, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -558,7 +558,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0.6
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1001 &379797139
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -962,7 +963,7 @@ Transform:
   m_GameObject: {fileID: 520807450}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 18.72, y: 12.13, z: 8.31}
+  m_LocalPosition: {x: 18.72, y: 12.130001, z: 8.31}
   m_LocalScale: {x: 1, y: 0.9318391, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1035,7 +1036,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0.6
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1 &548484100
 GameObject:
   m_ObjectHideFlags: 0
@@ -1136,7 +1138,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0.5
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1 &619394800
 GameObject:
   m_ObjectHideFlags: 0
@@ -1335,7 +1338,7 @@ Transform:
   m_GameObject: {fileID: 651770915}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 11.2822, y: 12.05, z: 9.63}
+  m_LocalPosition: {x: 11.2822, y: 12.050001, z: 9.63}
   m_LocalScale: {x: 12.968428, y: 11.81, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1353,7 +1356,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1 &713795765
 GameObject:
   m_ObjectHideFlags: 0
@@ -1524,7 +1528,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0.5
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1001 &879993281
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1779,7 +1784,7 @@ Transform:
   m_GameObject: {fileID: 1024610192}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 3.42, y: 12.13, z: 8.31}
+  m_LocalPosition: {x: 3.42, y: 12.130001, z: 8.31}
   m_LocalScale: {x: 1, y: 0.9318391, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1797,7 +1802,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0.6
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1001 &1037041796
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1910,7 +1916,7 @@ Transform:
   m_GameObject: {fileID: 1041119406}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 47.8636, y: 12.05, z: 9.63}
+  m_LocalPosition: {x: 47.8636, y: 12.050001, z: 9.63}
   m_LocalScale: {x: 12.968428, y: 11.81, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1983,7 +1989,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1 &1151060387
 GameObject:
   m_ObjectHideFlags: 0
@@ -2630,7 +2637,7 @@ Transform:
   m_GameObject: {fileID: 1915584917}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 55.5199, y: 12.13, z: 8.31}
+  m_LocalPosition: {x: 55.5199, y: 12.130001, z: 8.31}
   m_LocalScale: {x: 1.7555, y: 0.9318391, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2703,7 +2710,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: de4d1a8552c54c24680f08089be7324e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ParallaxEfeito: 0.6
+  parallaxX: 0.2
+  parallaxY: 0
 --- !u!1001 &1925366903
 PrefabInstance:
   m_ObjectHideFlags: 0
