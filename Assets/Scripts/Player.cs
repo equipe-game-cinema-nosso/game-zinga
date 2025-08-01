@@ -29,6 +29,10 @@ public class Player : MonoBehaviour
         {
             Move();
         }
+        else
+        {
+            animator.SetBool("Detectada", true);
+        }
     }
     void Move()
     {

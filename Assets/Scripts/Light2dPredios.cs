@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.Rendering.Universal;
 
-public class Placas : MonoBehaviour
+public class light2dPredios : MonoBehaviour
 {
     public Light2D luz;
     public float intensidadeMin = 1.5f;

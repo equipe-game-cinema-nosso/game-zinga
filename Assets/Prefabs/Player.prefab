@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 9104038311842614845}
   - component: {fileID: 9110437525865399142}
   - component: {fileID: 2569970564523368498}
-  - component: {fileID: 4428133143092516058}
+  - component: {fileID: 4488813977530907668}
   m_Layer: 0
   m_Name: Zinga
   m_TagString: Untagged
@@ -112,7 +112,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 5899514594333497787, guid: 7f1000fe3f816324da49351a14c9167a, type: 3}
+  m_Sprite: {fileID: 7407564220345235968, guid: fe79a913bd18474439f6022eccb7ab94, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -204,8 +204,9 @@ MonoBehaviour:
   pulo: {x: 0, y: 7}
   isChao: 0
   sprite: {fileID: 2117743085121120077}
-  animator: {fileID: 4428133143092516058}
---- !u!95 &4428133143092516058
+  animator: {fileID: 4488813977530907668}
+  enemyController: {fileID: 0}
+--- !u!95 &4488813977530907668
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
