@@ -14,6 +14,8 @@ public class Player : MonoBehaviour
 
     [SerializeField] private Animator animator;
 
+    [SerializeField] EnemyController enemyController;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -23,7 +25,10 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-         Move();
+        if (!enemyController.playerDetected)
+        {
+            Move();
+        }
     }
     void Move()
     {
