@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3867676847593539489}
   - component: {fileID: 3056068223998991858}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: EnemyGroup
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -59,7 +59,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2563522093212378072}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Pivot
   m_TagString: Untagged
   m_Icon: {fileID: 7866945982896999795, guid: 0000000000000000d000000000000000, type: 0}
@@ -97,7 +97,7 @@ GameObject:
   - component: {fileID: 7774367515501127664}
   - component: {fileID: 8160383190926766921}
   - component: {fileID: 413631926131759915}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -397,7 +397,7 @@ GameObject:
   - component: {fileID: 7796228727512851907}
   - component: {fileID: 8821608422774589558}
   - component: {fileID: 4748162524382989866}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Right
   m_TagString: EnemyCollider
   m_Icon: {fileID: -1412012063857583412, guid: 0000000000000000d000000000000000, type: 0}
@@ -533,7 +533,7 @@ GameObject:
   - component: {fileID: 1961930071336825876}
   - component: {fileID: 5834889181243463225}
   - component: {fileID: 9030060183133371598}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: AreaDetection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -598,7 +598,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 4
   m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
   m_Color: {r: 1, g: 0, b: 0, a: 0.039215688}
   m_FlipX: 0
@@ -712,7 +712,7 @@ GameObject:
   - component: {fileID: 5531490892618524623}
   - component: {fileID: 2092414939195385500}
   - component: {fileID: 5118911724185611174}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Left
   m_TagString: EnemyCollider
   m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
@@ -845,7 +845,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5428953954793822099}
   - component: {fileID: 7328606815004013517}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Light enemy
   m_TagString: Untagged
   m_Icon: {fileID: 0}
