@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Player : MonoBehaviour
@@ -16,6 +17,8 @@ public class Player : MonoBehaviour
 
     [SerializeField] EnemyController enemyController;
 
+    [SerializeField] public Vector2 Checkpoint;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -32,6 +35,15 @@ public class Player : MonoBehaviour
         else
         {
             animator.SetBool("Detectada", true);
+            StartCoroutine(checkpointReturn());
+           
+
+            IEnumerator checkpointReturn()
+                {
+                yield return new WaitForSeconds(3f);
+                transform.position = Checkpoint;
+                enemyController.playerDetected = false;
+                }
         }
     }
     void Move()
@@ -68,4 +80,6 @@ public class Player : MonoBehaviour
             animator.SetBool("NoChao", true);
         }
     }
+    
 }
+

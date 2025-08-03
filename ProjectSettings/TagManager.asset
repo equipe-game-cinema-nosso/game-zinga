@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Plataforma
   - EnemyCollider
+  - Chekpoint
   layers:
   - Default
   - TransparentFX
@@ -15,10 +16,10 @@ TagManager:
   - UI
   - Enemys
   - Interative Objects
-  - 
-  - 
-  - 
-  - 
+  - Camera
+  - Limite
+  - Luz Backgroud
+  - Cenario
   - 
   - 
   - 
