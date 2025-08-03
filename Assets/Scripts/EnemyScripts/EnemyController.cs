@@ -9,8 +9,10 @@ public class EnemyController : MonoBehaviour
     [SerializeField] private Animator animator;
     [SerializeField] private AudioSource killSound;
 
-    private float lastSpeed;
+    private Coroutine detectionRoutineInstance;
 
+    private float lastSpeed;
+    
     public bool playerDetected;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -22,14 +24,29 @@ public class EnemyController : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        this.gameObject.transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
+        if (!playerDetected)
+        {
+            this.gameObject.transform.position += new Vector3(speed * Time.deltaTime, 0, 0);
+
+        }
     }
 
     public void WhenPlayerWasDetected()
     {
-        Debug.Log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
-        StartCoroutine(detectionAdjustment());
+        if (detectionRoutineInstance != null)
+        {
+            StopCoroutine(detectionRoutineInstance);
+            detectionRoutineInstance = null;
+        }
+
+        playerDetected = true;
+        speed = 0;
+
+        animator.SetTrigger("Detected"); // animação de detecção
+        killSound.Play();
         //precisa de uma booleana (que pode ser playerDetected) que passa a informação pro player que ele "morreu".
+
+        StartCoroutine(ResumeAfterDetection());
     }
 
 
@@ -37,7 +54,11 @@ public class EnemyController : MonoBehaviour
     {
         if (collision.gameObject.tag == "EnemyCollider")
         {
-            StartCoroutine(DetectionRoutine());
+           if(!playerDetected && detectionRoutineInstance == null)
+            {
+                detectionRoutineInstance = StartCoroutine(DetectionRoutine());
+
+            }
         }
     }
 
@@ -69,8 +90,21 @@ public class EnemyController : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
         Debug.Log("Volto a funcionar normalmente");
 
-        speed = lastSpeed;
+        speed = -lastSpeed;
         this.gameObject.transform.eulerAngles += new Vector3(0, 180, 0);
         speed *= -1; // sprite flipado após ou antes dessa instrução
+        detectionRoutineInstance = null;
+
     }
+
+    IEnumerator ResumeAfterDetection()
+    {
+        yield return new WaitForSeconds(3f);
+        playerDetected = true;
+
+        speed = -lastSpeed;
+        transform.eulerAngles += new Vector3(0, 180, 0);
+    }
+
+
 }

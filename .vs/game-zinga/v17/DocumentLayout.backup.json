@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\",
+  "WorkspaceRootPath": "D:\\Iaga\\projetos unity\\game-zinga\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|c:\\users\\citra\\documents\\github\\game-zinga\\assets\\scripts\\enemyscripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|d:\\iaga\\projetos unity\\game-zinga\\assets\\scripts\\enemyscripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyscripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|c:\\users\\citra\\documents\\github\\game-zinga\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|c:\\users\\citra\\documents\\github\\game-zinga\\assets\\scripts\\enemyscripts\\enemydetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\enemyscripts\\enemydetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyscripts\\enemydetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\assets\\scripts\\enemyscripts\\enemysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\enemyscripts\\enemysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyscripts\\enemysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\Player.cs",
+              "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
-              "ToolTip": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\Player.cs",
+              "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAwCYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswDQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T23:37:25.669Z",
               "EditorCaption": ""
@@ -45,11 +45,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "EnemyDetection.cs",
-              "DocumentMoniker": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
+              "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
-              "ToolTip": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
+              "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T23:18:34.102Z",
               "EditorCaption": ""
@@ -58,11 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EnemyController.cs",
-              "DocumentMoniker": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
+              "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
-              "ToolTip": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
+              "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAQwEMAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T23:55:08.568Z",
               "EditorCaption": ""
@@ -71,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "EnemySetup.cs",
-              "DocumentMoniker": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
+              "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
-              "ToolTip": "C:\\Users\\CITRA\\Documents\\GitHub\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
+              "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T22:55:34.099Z",
               "EditorCaption": ""

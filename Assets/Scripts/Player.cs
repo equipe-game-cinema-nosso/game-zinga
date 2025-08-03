@@ -19,6 +19,8 @@ public class Player : MonoBehaviour
 
     [SerializeField] public Vector2 Checkpoint;
 
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -36,15 +38,15 @@ public class Player : MonoBehaviour
         {
             animator.SetBool("Detectada", true);
             StartCoroutine(checkpointReturn());
-           
 
-            IEnumerator checkpointReturn()
-                {
-                yield return new WaitForSeconds(3f);
-                transform.position = Checkpoint;
-                enemyController.playerDetected = false;
-                }
         }
+    }
+    IEnumerator checkpointReturn()
+    {
+        yield return new WaitForSeconds(3f);
+        transform.position = Checkpoint;
+        enemyController.playerDetected = false;
+        animator.SetBool("Detectada", false);
     }
     void Move()
     {
