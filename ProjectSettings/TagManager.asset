@@ -7,6 +7,7 @@ TagManager:
   - Plataforma
   - EnemyCollider
   - Chekpoint
+  - Sankofa
   layers:
   - Default
   - TransparentFX

@@ -20,11 +20,10 @@ public class Player : MonoBehaviour
     [SerializeField] public Vector2 Checkpoint;
 
 
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        
     }
 
     // Update is called once per frame
@@ -40,7 +39,9 @@ public class Player : MonoBehaviour
             StartCoroutine(checkpointReturn());
 
         }
+       
     }
+
     IEnumerator checkpointReturn()
     {
         yield return new WaitForSeconds(3f);
