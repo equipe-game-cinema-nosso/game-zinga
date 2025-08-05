@@ -26,7 +26,6 @@ public class Player : MonoBehaviour
 
 
 
-
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -35,6 +34,8 @@ public class Player : MonoBehaviour
         {
             audioSource = GetComponent<AudioSource>();
         }
+
+        
     }
 
     // Update is called once per frame
@@ -51,7 +52,9 @@ public class Player : MonoBehaviour
             StartCoroutine(checkpointReturn());
 
         }
+       
     }
+
     IEnumerator checkpointReturn()
     {
         yield return new WaitForSeconds(3f);

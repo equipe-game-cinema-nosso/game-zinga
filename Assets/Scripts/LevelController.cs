@@ -14,7 +14,7 @@ public class LevelController : MonoBehaviour
     }
     void NextLevel()
     {
-        SceneManager.LoadScene("");
+        SceneManager.LoadScene("Creditos");
 
     }
 }
