@@ -19,10 +19,22 @@ public class Player : MonoBehaviour
 
     [SerializeField] public Vector2 Checkpoint;
 
+    [SerializeField] private AudioSource audioSource;
+
+    [SerializeField] private AudioClip jumpSound;
+
+
+
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+
+        if (audioSource == null)
+        {
+            audioSource = GetComponent<AudioSource>();
+        }
+
         
     }
 
@@ -31,6 +43,7 @@ public class Player : MonoBehaviour
     {
         if (!enemyController.playerDetected)
         {
+ 
             Move();
         }
         else
@@ -72,6 +85,10 @@ public class Player : MonoBehaviour
             rb.AddForce(pulo, ForceMode2D.Impulse);
             isChao = false;
             animator.SetBool("NoChao", false);
+
+            //Som de pulo
+            audioSource.PlayOneShot(jumpSound);
+
         }
 
     }

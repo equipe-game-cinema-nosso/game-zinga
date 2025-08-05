@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyscripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\enemyscripts\\enemydetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyscripts\\enemydetection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C63D8939-5DF5-AAA8-C83B-09773056B768}|Assembly-CSharp.csproj|D:\\Iaga\\projetos unity\\game-zinga\\assets\\scripts\\enemyscripts\\enemysetup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,29 +30,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Player.cs",
               "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player.cs",
               "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAswDQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T23:37:25.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T23:37:25.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EnemyDetection.cs",
               "DocumentMoniker": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
               "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyScripts\\EnemyDetection.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAQAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-30T23:18:34.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-30T23:18:34.102Z"
             },
             {
               "$type": "Document",
@@ -62,7 +60,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
               "ToolTip": "D:\\Iaga\\projetos unity\\game-zinga\\Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyScripts\\EnemyController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAswBoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-28T23:55:08.568Z",
               "EditorCaption": ""
@@ -77,8 +75,7 @@
               "RelativeToolTip": "Assets\\Scripts\\EnemyScripts\\EnemySetup.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAzwCEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-28T22:55:34.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T22:55:34.099Z"
             }
           ]
         }
