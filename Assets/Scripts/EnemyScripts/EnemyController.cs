@@ -90,10 +90,11 @@ public class EnemyController : MonoBehaviour
         yield return new WaitForSeconds(0.5f);
         Debug.Log("Volto a funcionar normalmente");
 
-        speed = -lastSpeed;
+        speed = lastSpeed;
         this.gameObject.transform.eulerAngles += new Vector3(0, 180, 0);
         speed *= -1; // sprite flipado após ou antes dessa instrução
         detectionRoutineInstance = null;
+        Debug.Log("flipei");
 
     }
 
